@@ -95,7 +95,7 @@ def test_proxy():
     if os.name == 'nt':
         command = 'TASKKILL /F /T /IM %s' % 'sslocal.exe'
     elif os.name == 'posix':
-        command = 'KILLALL sslocal'
+        command = 'killall sslocal'
     else:
         print('Unable to identify the current system, detection function closure !')
         return True
