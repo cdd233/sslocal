@@ -4,7 +4,7 @@
 
 
 ```doc
-以下 `Windows` 和 `Linux` 下的安装都建议搭配浏览器插件 SwitchyOmega 一起使用！
+以下 Windows 和 Linux 下的安装都建议搭配浏览器插件 SwitchyOmega 一起使用！
 仅支持浏览器代理（也许你懂得更多，希望可以分享一下！）
 ```
 
