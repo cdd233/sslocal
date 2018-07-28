@@ -93,7 +93,7 @@ def parse_wuwweb():
 def test_proxy():
     print('>>>>> Begin to detect whether the current proxy is available...')
     if os.name == 'nt':
-        command = 'TASKKILL /F /T /IM %s' % 'sslocal.exe'
+        command = 'taskkill /F /T /IM %s' % 'sslocal.exe'
     elif os.name == 'posix':
         command = 'killall sslocal'
     else:
@@ -147,6 +147,5 @@ def run():
 
 
 if __name__ == '__main__':
-    multiprocessing.freeze_support()
     print(__doc__)
     run()
