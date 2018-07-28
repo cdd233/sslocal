@@ -10,8 +10,6 @@
 
 ## Installation_01（Windows）
 
-### `python` > `pip` > `requests`/`lxml`/`shadowsocks` > `openssl` > `proxy` > `switchyomega`（[参考链接][Install-Shadowsocks-Server-on-Windows]）
-
 Step01. 下载并安装适用于 `Windows` 的 [`Python`][Python]
 
 Step02. 在安装过程中，勾选安装 `pip` 以及勾选 `Add Python to environment variables` 添加 `python` 到环境变量
@@ -29,9 +27,9 @@ Step05. 下载 [`proxy.py`][proxy] 最新版本，双击即可运行
 
 Step06. 下载 [`SwitchyOmega`][SwitchyOmega] ，适合自己浏览器（chrome/firfox）的插件，即可自由切换代理！
 
+
 ## Installation_02（Linux）
 
-### `python` > `requests` > `shadowsocks` > `proxy` > `switchyomega`
 参考 `Windows` 的安装吧，不测试了，我用的是 `archlinux` ，以下内容都是凭记忆写，只少不多
 
 Step01. 安装 `python`、`lxml` 和 `ishadowsocks`
