@@ -3,10 +3,10 @@
 <p align="center">这是一个自动连接代理的脚本，说白了就是翻墙啦！</p>
 
 
-> 以下 `Windows` 和 `Linux` 下的安装都建议搭配浏览器插件 [`SwitchyOmega`][SwitchyOmega] 一起使用！
->
-> 仅支持浏览器代理（也许你懂得更多，希望可以分享一下！）
-
+```doc
+以下 `Windows` 和 `Linux` 下的安装都建议搭配浏览器插件 [`SwitchyOmega`][SwitchyOmega] 一起使用！
+仅支持浏览器代理（也许你懂得更多，希望可以分享一下！）
+```
 
 ## Installation_01（Windows）
 
